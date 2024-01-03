@@ -3,15 +3,10 @@
   /* font-family: Tahoma, sans-serif; */
   font-family: Helvetica, sans-serif;
   /* font-family: Arial, sans-serif; */
-  /* https://www.w3schools.com/colors/colors_palettes.asp */
-  /* background-color: #FAF9F6;
-  color: #3b3a30; */
 }
 
 ::selection {
-  /* background: #f7cac9; */
-  /* background: #eaece5; */
-  background: #fff2df;
+  /* background: #fff2df; */
 }
 
 a {
