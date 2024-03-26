@@ -1,12 +1,6 @@
 * {
   box-sizing: border-box;
-  /* font-family: Tahoma, sans-serif; */
   font-family: Helvetica, sans-serif;
-  /* font-family: Arial, sans-serif; */
-}
-
-::selection {
-  /* background: #fff2df; */
 }
 
 a {
